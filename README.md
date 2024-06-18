@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## A Little About Me
+## 🚀 A Little About Me
 🎓 I'm Agung Prayogi A Full Stack Developer and Data Enthusiast who have speciality on Machine Learning and Data Analytics/Sciencetist. I am also persuing Bachelor Degree on **Computer Science** and Graduated on July 2024
 
 ✨ Outside the tech world, I enjoy to improve my self, knowing someone new and discuss about latest topic. My hobby range from **Singing** although my voice isn't good enough, **Dancing** with my body, and **Watch K-Drama**.
